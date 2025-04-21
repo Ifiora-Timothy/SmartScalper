@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "name": "MQL5",
+      "intelliSenseMode": "gcc-x64",
+      "includePath": [
+        "/mnt/c/Users/ifior/AppData/Roaming/MetaQuotes/Terminal/D0E8209F77C8CF37AD8BF550E51FF075/MQL5/Include/**"
+      ],
+      "defines": [],
+      "compilerPath": "/mnt/c/Program Files/MetaTrader 5/metaeditor64.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "browse": {
+        "limitSymbolsToIncludedHeaders": true,
+        "path": [
+          "/mnt/c/Users/ifior/AppData/Roaming/MetaQuotes/Terminal/D0E8209F77C8CF37AD8BF550E51FF075/MQL5/Include/**"
+        ]
+      }
+    }
+  ],
+  "version": 4
+}
